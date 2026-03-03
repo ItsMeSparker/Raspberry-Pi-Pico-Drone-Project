@@ -1,0 +1,13 @@
+Raspberry Pi Pico 2: 50mm Length, 20mm width 
+Battery 500mh 3.7V: 36mm length, 20mm width
+Battery Charger: 27mm length, 16mm width
+GY-91 9-axis Inertial Sensor: 20mm length, 14mm width
+
+GY-GPS6MV2 (A): 35mm length, 31mm width
+GY-GPS6MV2 (B): 25*25mm^2 Surface, 8mm height
+
+Motor: 7mm diameter, 16mm height
+Propeller: 55mm wingspan
+HW-672 Motor Controller (x2): 18mm length, 16mm width
+
+Programming Language: Python 
